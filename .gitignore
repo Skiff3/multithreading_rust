@@ -1,0 +1,10 @@
+# Ignore IDE settings
+.idea/
+*.iml
+
+# Ignore build artifacts
+target/
+
+# Ignore Rust debug & release builds
+debug/
+release/
